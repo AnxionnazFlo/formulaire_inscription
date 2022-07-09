@@ -40,7 +40,6 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `first_name`, `last_name`, `password`, `email`) VALUES
-(1, 'Florian', 'Anxionnaz', '$2y$10$vo5LVCiuNCo4sAqVqFZVOO1G0IUMwXOgxCos.qnmZV0BshrVGV0uO', 'anxionnaz.flo@gmail.com'),
 (6, 'Machin', 'Chose', '$2y$10$HDQm9DKXeNnnkhIFkb62f.Dc40zn/4WUf2osV2ZswIgNLxJdn.8x2', 'machin.chose@gmail.com');
 
 --
