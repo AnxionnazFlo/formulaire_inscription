@@ -34,7 +34,7 @@ En marge du module de formation PHP.
 
 - Installer le projet dans le dossier htdocs de XAMPP (www sous WAMP)  
 
-- Via PHPmyAdmin, importez le fichier forumflo.sql dans votre BDD  
+- Via PHPmyAdmin, importez le fichier users.sql dans votre BDD  
 
 - Vérifier l'utilisateur et mot de passe dans le fichier connexionbdd.php  
 
